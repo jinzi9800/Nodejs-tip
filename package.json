@@ -1,0 +1,23 @@
+{
+  "name": "my_node_study",
+  "version": "1.0.0",
+  "description": "my node study crouse from ninghao",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/jinzi9800",
+  "author": "jinzi9800",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinzi9800/Nodejs-tip/issues"
+  },
+  "homepage": "https://github.com/jinzi9800/Nodejs-tip#readme",
+  "private": null,
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
